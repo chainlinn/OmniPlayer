@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_exo_player"
+        android:title="使用 ExoPlayer 内核" />
+
+    <item
+        android:id="@+id/option_mpv_player"
+        android:title="使用 MPV 内核" />
+
+</menu>

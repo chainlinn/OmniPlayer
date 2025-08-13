@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+      Base application theme.
+      使用一个标准的 Material 3 DayNight 主题作为父主题。
+      重要的是，它必须是一个 NoActionBar 主题，因为我们是手动处理UI的。
+    -->
+    <style name="Theme.MovieAPP_TEAT" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--
+          在这里可以自定义你的主题颜色等。
+          例如:
+          <item name="colorPrimary">@color/purple_500</item>
+          <item name="colorPrimaryVariant">@color/purple_700</item>
+          <item name="colorOnPrimary">@color/white</item>
+          ...
+        -->
+    </style>
+</resources>
